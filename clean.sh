@@ -1,1 +1,1 @@
-rm -Rf data/*
+rm -Rf /home/dockremap/mysql-data
